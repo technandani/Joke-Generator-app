@@ -1,6 +1,7 @@
 # jokeGenerator
 
-### links:// https://technandani.github.io/Joke-Generator-app/
+### links:// 
+   https://technandani.github.io/Joke-Generator-app/
    https://peppy-smakager-8ed186.netlify.app
 #### screenshot
 
